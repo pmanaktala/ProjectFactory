@@ -1,0 +1,9 @@
+Import the mysql file in the php admin
+
+
+The default creditials are
+Username : root
+password : root
+
+Apache Port : 8888
+Mysql port : 8889

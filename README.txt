@@ -1,0 +1,1 @@
+This is a working application. It manages the products of a company as well as the salaries of employees. I still have to work on the visual apperance of it.
